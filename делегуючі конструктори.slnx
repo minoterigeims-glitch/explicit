@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="делегуючі конструктори/делегуючі конструктори.vcxproj" Id="b98d2e55-69fa-4e97-b1be-980460858467" />
+</Solution>
